@@ -1,0 +1,29 @@
+.kanye-image {
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(217, 253, 192);
+}
+
+.navbar-item {
+    padding: 15px;
+    background-color: rgb(255, 215, 181);
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-item:hover {
+    background-color: rgb(252, 172, 102);
+}
